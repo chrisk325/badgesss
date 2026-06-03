@@ -3,7 +3,7 @@
     {
       "groupId": "gco",
       "id": "co-hevc",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-HEVC.png",
+      "imageURL": "https://raw.githubusercontent.com/chrisk325/badgesss/refs/heads/main/white-HEVC.png",
       "isEnabled": true,
       "name": "HEVC",
       "pattern": "(?i)\\b(?:hevc|h[\\s._-]?265|x265)\\b",
@@ -16,7 +16,7 @@
     {
       "groupId": "gco",
       "id": "co-h264",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-H264.png",
+      "imageURL": "https://raw.githubusercontent.com/chrisk325/badgesss/refs/heads/main/white-H264.png",
       "isEnabled": true,
       "name": "H.264",
       "pattern": "(?i)\\b(?:avc|h[\\s._-]?264|x264)\\b",
@@ -29,7 +29,7 @@
     {
       "groupId": "gco",
       "id": "co-av1",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-AV1.png",
+      "imageURL": "https://raw.githubusercontent.com/chrisk325/badgesss/refs/heads/main/white-AV1.png",
       "isEnabled": true,
       "name": "AV1",
       "pattern": "(?i)\\bav1\\b",
@@ -42,7 +42,7 @@
     {
       "groupId": "gco",
       "id": "co-xvid",
-      "imageURL": "https://raw.githubusercontent.com/starkles/Nuvio-sven-badges/main/grey-XviD.png",
+      "imageURL": "https://raw.githubusercontent.com/chrisk325/badgesss/refs/heads/main/white-XviD.png",
       "isEnabled": true,
       "name": "XviD",
       "pattern": "(?i)\\b(?:xvid|divx)\\b",
